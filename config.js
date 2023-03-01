@@ -11,11 +11,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-    ["6285380166282"],
-    ["6285380166282", "️Vinss - Owner", true]
+    ["601127905062"],
+    ["601127905062", "️Vinss - Owner", true]
 ]
-global.mods = ["6285380166282"]
-global.prems = ["6285380166282"]
+global.mods = ["601127905062"]
+global.prems = ["601127905062"]
 
 /*Website*/
 global.APIs = {
@@ -76,19 +76,19 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "628******"
-global.nomorown = "6285380166282"
-global.namebot = " 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣 あ⁩ "
-global.nameown = "「 𝙑𝙞𝙣𝙨𝙨. 」"
+global.nomorbot = "601127885739"
+global.nomorown = "601127905062"
+global.namebot = " Lynn-Md🐳  "
+global.nameown = "「 Yuoo. 」"
 
 /* Random */
 global.pmenus = pickRandom(["◈", "➭", "ଓ", "⟆•", "⳻⳻", "•", "↬", "◈▻", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"])
 global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*Watermark*/
-global.wm = "                「 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣 あ⁩ 」"
+global.wm = "                「 Lynn-Md あ⁩ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + " 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + " Lynn-Md"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -99,13 +99,13 @@ global.fla = pickRandom(ImgLogo())
 global.flaaa = ImgLogo()
 
 /*Link*/
-global.sig = "https://instagram.com/maxxystore__"
-global.sgh = "https://www.github.com/Maxxy-Botz"
-global.sgc = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.sig = "https://instagram.com/xysnap_"
+global.sgh = "https://www.github.com/LynnXzy"
+global.sgc = "https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD"
 global.sdc = "https://www.discord.com/"
-global.snh = "https://www.tiktok.com/@beatrix_ofc0"
+global.snh = "https://www.tiktok.com/@nzwprsty"
 global.sfb = "https://www.facebook.com/"
-global.syt = "https://www.youtube.com/@MaxxyBotz"
+global.syt = "https://www.youtube.com/@lynnxzy2951"
 
 /*Nsfw*/
 global.premnsfw = true
@@ -166,30 +166,30 @@ global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.packname = "𝗠𝗮𝗱𝗲 𝗕𝘆"
 global.stickpack = packname
-global.author = "𝙈𝙖𝙭𝙭𝙮 乂 𝙑𝙞𝙣𝙨𝙨"
+global.author = "Lynn 乂Yuoo"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
 /*Pesan*/
 global.eror = "_💤 Ada yang eror nih!_"
-global.wait = "_🕚 Mohon tunggu, dalam proses!_"
+global.wait = "_🕚 Tunggu Kidz!_"
 global.render = "_📍 Rendering!_"
-global.webs = "https://lynk.id/kahfi.xd"
-global.gcwangsaf = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.webs = "https://lynk.id/botzlynn_"
+global.gcwangsaf = "https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD"
 
 /*Donasi*/
-global.saweria = "https://saweria.co/MaxxyBotz"
-global.dana = "082275734206"
-global.pulsa = "085380166282"
+global.saweria = "-"
+global.dana = "-"
+global.pulsa = "-"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
-global.pdana = "082275734206"
+global.pdana = "-"
 global.povo = "-"
 global.pgopay = "-"
-global.ppulsa = "085380166282"
-global.ppulsa2 = "085380166282"
-global.psaweria = "https://saweria.co/MaxxyBotz"
+global.ppulsa = "-"
+global.ppulsa2 = "-"
+global.psaweria = "-"
 
 /* Fake adReplyS*/
 global.adReplyS = {
@@ -205,7 +205,7 @@ global.adReplyS = {
             description: "Vinss",
             previewType: "PHOTO",
             thumbnail: await fs.readFileSync("./thumbnail.jpg"),
-            sourceUrl: "https://github.com/Maxxy-Botz",
+            sourceUrl: "https://github.com/LynnXzy",
         }
     }
 }
@@ -1100,7 +1100,7 @@ function ThumbUrl() {
 
 /* Fake Reply */
 function Fakes() {
-    let Org = pickRandom(["0", "6285380166282", "6285380166282", "6285380166282", "6285380166282", "6285380166282", "6285380166282"])
+    let Org = pickRandom(["0", "601127905062", "601127905062", "601127905062", "601127905062", "601127905062", "601127905062"])
     let Parti = pickRandom([Org + "@s.whatsapp.net", Org + "@c.us"])
     let Remot = pickRandom(["status@broadcast", "120363047752200594@g.us"])
     let Hai = pickRandom(["Apa kabar ", "Halo ", "Hai "])
