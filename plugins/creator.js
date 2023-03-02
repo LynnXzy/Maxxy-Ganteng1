@@ -42,8 +42,8 @@ let handler = async (m, {
     if (command == "owner") {
         try {
             let sentMsg = await conn.sendContactArray(m.chat, [
-                [nomorown, await conn.getName(nomorown + "@s.whatsapp.net"), "👑 Developer Bot ", "🚫 Dont call me 🥺", "botzlynx@gmail.com", "🇮🇩 Malaysia", "🚀 https://github.com/LynnXzy", "👤 Lu sopan gua sopan"],
-                [conn.user.jid.split("@")[0], await conn.getName(conn.user.jid), "🔥 Bot WhatsApp 🐣", "📵 Dont spam/call me 😢", "Nothing", "🇮🇩 Malaysia", "🚀 https://lynk.id/botzlynn_", "🤖 Hanya bot biasa yang kadang suka eror ☺"]
+                [nomorown, await conn.getName(nomorown + "@s.whatsapp.net"), "👑 Developer Bot ", "🚫 Dont call me 🥺", "botzlynx@gmail.com", "🄼🅈 Malaysia", "🚀 https://github.com/LynnXzy", "👤 Lu sopan gua sopan"],
+                [conn.user.jid.split("@")[0], await conn.getName(conn.user.jid), "🔥 Bot WhatsApp 🐣", "📵 Dont spam/call me 😢", "Nothing", "🄼🅈 Malaysia", "🚀 https://lynk.id/botzlynn_", "🤖 Hanya bot biasa yang kadang suka eror ☺"]
             ], m)
             await conn.reply(m.chat, `Halo kak @${m.sender.split("@")[0]} itu nomor team developerku, jangan di apa-apain ya kak😖`, sentMsg, {
                 mentions: [m.sender]
