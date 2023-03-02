@@ -10,16 +10,16 @@ if (command == 'sewabot') {
 *• SEWA BOT & UP TO PREMIUM •*
         
 1. Grup / 30 Hari
-Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+Rm. 20.00 Maxis
+Rm. 20.00 Celcom 
 
 2. Premium / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+Rm. 20.000 Maxis
+Rm. 20.000 Celcom
 
 3. Premium + Grup / 30 Hari
-Rp. 20.000 Dana
-Rp. 20.000 Pulsa
+Rm. 25.000 Maxis
+Rm. 25.000 Celcom
 
 wa.me/${nomorown}
 *Bukan Bot!!!*
